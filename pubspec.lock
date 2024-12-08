@@ -217,6 +217,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.1.5"
+  dispose_scope:
+    dependency: transitive
+    description:
+      name: dispose_scope
+      sha256: "48ec38ca2631c53c4f8fa96b294c801e55c335db5e3fb9f82cede150cfe5a2af"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.1.0"
   dotted_border:
     dependency: "direct main"
     description:
@@ -885,6 +893,30 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.3.0"
+  patrol:
+    dependency: "direct dev"
+    description:
+      name: patrol
+      sha256: "7e7c346890fa234af948fbdf024e09e80142deef7aef572dead1001446ca853c"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.13.1"
+  patrol_finders:
+    dependency: transitive
+    description:
+      name: patrol_finders
+      sha256: "6dfa07aa951f1d769f0a736f4fd4eb63d99ef32931aaaa39e0d24126ddfe9cd9"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.5.1"
+  patrol_log:
+    dependency: transitive
+    description:
+      name: patrol_log
+      sha256: fb67013a5305cfd30a374cce3c5ea5a99613335d8cf31c250ecb0dda75deec21
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.2.1"
   permission_handler:
     dependency: "direct main"
     description:
@@ -1093,6 +1125,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.4.1"
+  shelf:
+    dependency: transitive
+    description:
+      name: shelf
+      sha256: ad29c505aee705f41a4d8963641f91ac4cee3c8fad5947e033390a7bd8180fa4
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.4.1"
   sky_engine:
     dependency: transitive
     description: flutter
