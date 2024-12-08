@@ -1,0 +1,18 @@
+enum Font {
+  system,
+  montserrat,
+  lato,
+  sofiaSans,
+  poppins,
+  raleway,
+  nunito,
+  playfairDisplay,
+  kanit,
+  lora,
+  quicksand,
+  barlow,
+  jost,
+  inter,
+  atkinsonHyperlegible,
+  openDyslexic,
+}

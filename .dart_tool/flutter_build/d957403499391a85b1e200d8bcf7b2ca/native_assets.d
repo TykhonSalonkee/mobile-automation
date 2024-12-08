@@ -1,0 +1,1 @@
+ /Users/tykhonkozachenko/Salonkee/mobile-automation/.dart_tool/flutter_build/d957403499391a85b1e200d8bcf7b2ca/native_assets.yaml: 
